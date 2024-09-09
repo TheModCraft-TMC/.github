@@ -9,7 +9,7 @@ TheModCraft Network is a pioneering Minecraft server network committed to delive
 - **Collaborations**: Open to partnering with developers, modders, and organizations to push the boundaries of what’s possible in Minecraft.
 - **Contact Us**: [Email Us](mailto:themodcraft@themodcraft.net) for any inquiries or potential collaborations.
 
-![Skills & Tools]https://github.com/GruenerNinja/GruenerNinja/assets/banner_1.png)
+![Skills & Tools](https://github.com/GruenerNinja/GruenerNinja/assets/banner_1.png)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
